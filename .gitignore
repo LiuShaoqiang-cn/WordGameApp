@@ -13,3 +13,6 @@ desktop.ini
 
 # Node（如未来扩展用到）
 node_modules/
+
+# Local Netlify folder
+.netlify
